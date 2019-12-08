@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Ignore all the current text/images
 image: /img/home-jumbotron.jpg
-heading: 'Remember, ignore all the coffee related text/images.'
-subheading: I will be changing all this.
+heading: This is a heading
+subheading: I will be changing all this text/images and logo
 mainpitch:
   title: Why Kaldi
   description: >
