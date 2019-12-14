@@ -10,7 +10,7 @@ $tsc-light-purple: #CAADDD
 $primary: $tsc-dark-purple
 $primary-invert: $tsc-white
 $body-color: $tsc-white
-$black: #CAADDD
+$black: $tsc-dark-purple
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -88,8 +88,8 @@ footer.footer
 
 //Menu overrides
 $menu-item-color: $white-ter
-$menu-item-hover-color: $black !important
-$menu-item-hover-background-color: $black
+$menu-item-hover-color: $tsc-dark-purple !important
+$menu-item-hover-background-color: $tsc-dark-purple
 $menu-item-active-color: $tsc-white
 $menu-item-active-background-color:	$tsc-white
 $menu-list-border-left: 1px solid $tsc-white
@@ -140,3 +140,6 @@ $menu-label-color: $white-ter
     text-align: center;
     max-width: 70%;
     margin: 0 0 1em;
+
+.tsc-nav
+  background-color: $tsc-mid-purple;

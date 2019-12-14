@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Thomas Street Church Of God
-image: /img/home-jumbotron.jpg
+image: /img/bible1.jpg
 heading: Heading
 subheading: '"Everybody Smile"'
 mainpitch:
