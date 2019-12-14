@@ -30,6 +30,18 @@ module.exports = {
       },
     },
     'gatsby-plugin-sharp',
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `ThomasStreetChurch.org`,
+        short_name: `ThomasStreetChurch`,
+        start_url: `/`,
+        background_color: `#F9F9F9`,
+        theme_color: `#CAADDD`,
+        display: `minimal-ui`,
+        icon: `src/img/Favicon.png`,
+      },
+    },
     'gatsby-transformer-sharp',
     {
       resolve: 'gatsby-transformer-remark',
