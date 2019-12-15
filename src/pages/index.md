@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Thomas Street Church Of Christ
-image: /img/bible1.jpg
+image: /img/bible-jumbotron.jpg
 heading: Heading
 subheading: '"Everybody Smile"'
 mainpitch:
