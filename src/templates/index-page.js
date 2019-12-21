@@ -40,6 +40,7 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             textAlign: 'center',
+            borderBottom: '5px solid #CAADDD',
             color: '#F9F9F9',
             lineHeight: '1',
             padding: '0.25em',

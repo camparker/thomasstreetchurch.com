@@ -44,6 +44,7 @@ const Navbar = class extends React.Component {
               <img src={logo} alt="Thomas Street Church Logo" style={{ width: '128px'}} />
             </Link>
             {/* Hamburger menu */}
+            {/* eslint-disable-next-line */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               data-target="navMenu"
@@ -66,7 +67,7 @@ const Navbar = class extends React.Component {
                 Faith
               </Link>
               <Link className="navbar-item" to="/blog">
-                Mission
+                News
               </Link>
               <Link className="navbar-item" to="/contact">
                 Core Beliefs
