@@ -1,5 +1,10 @@
 ---
 templateKey: about-page
-title: About Thomas Street Church Of Christ
+title: Prayer Requests
 ---
-###
+### Please join us in prayer for:
+
+* Our Country
+* The sick
+* The unsaved
+...
